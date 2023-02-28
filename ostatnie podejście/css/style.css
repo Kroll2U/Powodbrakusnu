@@ -1,0 +1,92 @@
+
+.kontener{
+    width:100vw;
+    height: 150vh;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.srodek{
+    width:95%;
+    height: 98%;
+
+    display: flex;
+}
+
+.left{
+    background: white;
+    border-top-left-radius:50px ; 
+}
+
+.right{
+    background: lightgray;
+    border-top-right-radius:50px ;
+}
+
+
+.rozwijanie{margin-top: 5vh;}
+nav{
+    margin-top: 2%;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background: lightgray;
+}
+.napisss{
+    margin-top: 1%;
+    margin-left: 3%;
+
+}
+.wyszuk{
+    padding-left: 0;
+    margin-left: 0.5vw;
+    border: none;
+    background-color: lightgray;
+
+}
+.wyszukd{
+    border-bottom: 0.1px solid black;
+}
+.zadaniczis{
+    margin-left: 16vw;
+}
+.guzikmarcin{
+    background-color: lightgray;
+    color: black;
+    border: none;
+}
+h1{
+    margin-left: 3vw;
+    color: dark;
+    font-size: 60px;
+    font-weight: bold
+    ;
+}
+.srodeksrodka{
+    background-color: white;
+    width: 70vw;
+    height: 60vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+border-radius: 30px;
+}
+
+.dodajklienta{
+    margin-right: 1.8vw;
+}
+.guziki{
+    background-color: darkblue;
+border-color: darkblue;
+}
+.wyszukiwarkawsrodku{
+    margin-top: 0;
+    padding-top: 0;
+    width: 68vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    height: 27vh;
+    border-radius: 20px;
+    border-top-left-radius: 6px solid darkblue;
+    background-color: lightgray;
+}
